@@ -135,7 +135,7 @@ footer {
 
 .top_eye_catch {
   height: 500px;
-  background-image: url(../images/top.jpg);
+  background-image: url(../images/島.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -148,7 +148,7 @@ footer {
 
 .report_eye_catch {
   height: 300px;
-  background-image: url(../images/report.jpg);
+  background-image: url(../images/島.jpg);
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -205,12 +205,12 @@ report
 }
 
 .report .outline .pic {
-  width: 45%;
+  width: 50%;
   border: 3px solid #999;
 }
 
 .report .outline .txt {
-  flex: 1;
+  flex: 30%;
   padding-left: 20px;
 }
 
